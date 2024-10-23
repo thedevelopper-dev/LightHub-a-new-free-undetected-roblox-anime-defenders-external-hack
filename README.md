@@ -1,6 +1,6 @@
 # 🏆 **THE BEST NEW FREE ANIME DEFENDERS CHEAT** (UNDETECTED) 🎮🔥
 
-Welcome to the **ULTIMATE** cheat tool for **Anime Defenders** on Roblox! This tool is completely **free** and **undetected**, giving you an edge to dominate the game with ease. Unlock the power of **auto farm**, **auto sell**, **auto upgrade**, and more!
+Welcome to the **ULTIMATE** cheat tool for **Anime Defenders** on Roblox! This tool is completely **free** and **undetected**, giving you an edge to dominate the game with ease.
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to the **ULTIMATE** cheat tool for **Anime Defenders** on Roblox! This t
 - ⚔️ **Auto Farm** – Automatically farm enemies and earn resources without effort.
 - 💰 **Auto Sell** – Automatically sell your unwanted items to keep your inventory clean.
 - 🔧 **Auto Upgrade** – Automatically upgrade your characters and gear for better performance.
-- 🛠️ **Basic Features** – All essential tools to make your gameplay smoother and more efficient!
+- 🛠️ **Basic Features** – All essential tools to make your gameplay smoother and more efficient , such as auto serv hop , auto start and much more
 
 ---
 
