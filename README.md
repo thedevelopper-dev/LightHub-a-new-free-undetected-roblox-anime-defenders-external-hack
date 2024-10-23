@@ -17,7 +17,7 @@ Welcome to the **ULTIMATE** cheat tool for **Anime Defenders** on Roblox! This t
 
 1. **📥 Download** the ZIP file from the release section.
 2. **🗂️ Extract** the ZIP file to your desired folder.
-3. **⚙️ Run** `animedefenders.exe`.
+3. **⚙️ Run** `LightHub.exe`.
 4. **🎮 Launch Roblox** and open **Anime Defenders**.
 5. **⚙️ Enable** the desired features (auto farm, auto sell, etc.) from the cheat menu.
 6. **🎉 Enjoy** dominating Anime Defenders effortlessly!
