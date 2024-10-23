@@ -26,7 +26,7 @@ Welcome to the **ULTIMATE** cheat tool for **Anime Defenders** on Roblox! This t
 
 ## ⚠️ **DISCLAIMER** ❗
 
-We are **NOT responsible** for any damage to your PC or Roblox account, including but not limited to **bans**. Use this cheat tool at your own risk and for **educational purposes** only! 👨‍🎓
+We are **NOT responsible** for any damage to your PC or Roblox account, including permanent **bans**. Use this cheat tool at your own risk and for **educational purposes** only! 👨‍🎓
 
 ---
 
